@@ -147,8 +147,7 @@ async function init() {
 }
 
 // a little function to check to see if a character is alphabet letter
-// this uses regex (the /[a-zA-Z]/ part) but don't worry about it
-// you can learn that later and don't need it too frequently
+
 function isLetter(letter) {
   return /^[a-zA-Z]$/.test(letter);
 }
