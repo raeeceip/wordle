@@ -11,4 +11,4 @@
 3. Enter your text in the text area
 4. Click the `Enter`
 5. Keep trying until you get the answer
-## Check the app out [here]()
+## Check the app out [here](https://raeeceip.github.io/wordle/)
